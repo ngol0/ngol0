@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Lam Ngo and I'm from Vietnam. Here's some facts about myself:
+
 - 🔭 I’m currently working on improving my coding skills
 - 👯 I’m looking to collaborate on any game projects :D
 - 📫 How to reach me: lamngo.251@gmail.com
