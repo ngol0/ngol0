@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on improving my coding skills
+- 👯 I’m looking to collaborate on any game projects :D
+- 📫 How to reach me: lamngo.251@gmail.com
+- 😄 Pronouns: She/Her
+
 <!--
 **ngol0/ngol0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
