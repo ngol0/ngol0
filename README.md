@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Lam Ngo and I'm from Vietnam. 
+My name is Lam Ngo and I'm a game programmer. I'm originally from Vietnam but I'm currently a MSc student in Games Technology at City University of London. 
 - 📫 How to reach me: lamngo.251@gmail.com
 - 😄 Pronouns: She/Her
 
