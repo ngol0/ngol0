@@ -1,4 +1,3 @@
-- My portfolio: https://lamngo.info/
 - 📫 How to reach me: lamngo.251@gmail.com
 
 <!--
