@@ -1,4 +1,5 @@
-- 📫 How to reach me: lamngo.251@gmail.com
+- ⚡ Fun fact: Your brain has roughly 86 billion neurons, each of which can connect to thousands of others. The number of possible brain connections is thought to exceed the number of atoms in the universe.
+- 🌱 Chilling...
 
 <!--
 **ngol0/ngol0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
